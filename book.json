@@ -1,13 +1,12 @@
-{"title": "ck的Python教程",
+{"title": "开智学院 编程课程 Python 入门班 私人教程模板",
     "version": "15.9.18,2020",
-    "description": "python红宝书",
-    "author": "ck",
+    "description": "OMOOC.py tutorial for teching",
+    "author": "OMOOC-support <omooc-support@googlegroups.com>",
 
     "plugins": [
         "disqus"
     ],
     "pluginsConfig": {
-        "shortName": "lcking"
+        "shortName": "Openmindclub"
     }
 }
-
