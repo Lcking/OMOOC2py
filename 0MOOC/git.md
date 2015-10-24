@@ -11,7 +11,7 @@
 - 在桌面中点击右键，出现<code>git bash here</code>即安装成功
 
 ## 配置
-要配置git与github的联动，就需要做几个较为复杂设置 
+要配置git与github的联动，就需要做几个较为复杂设置 asasas
 
 ## 使用
 
