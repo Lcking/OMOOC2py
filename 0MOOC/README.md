@@ -2,12 +2,12 @@
 ~ Life is short Let's Pythonic
 
 ## 进展
-- [CLI教程，世界的起点](0MOOC/CLI.md)
-- [DISQUS，真诚从眼神交流，从言语表露](0MOOC/DISQUS.md)
-- [github-Let's Begin](0MOOC/github.md)
-- [git，思念遥遥，如在耳际](0MOOC/git.md)
-- [markdown,写作纵享丝滑](0MOOC/md.md)
-- [python教程，我是世界尽头之海盗](0MOOC/py.md)
+- [CLI教程，世界的起点](CLI.md)
+- [DISQUS，真诚从眼神交流，从言语表露](DISQUS.md)
+- [github-Let's Begin](github.md)
+- [git，思念遥遥，如在耳际](git.md)
+- [markdown,写作纵享丝滑](md.md)
+- [python教程，我是世界尽头之海盗](py.md)
 
 ####  CLI编程思想的具象
 
