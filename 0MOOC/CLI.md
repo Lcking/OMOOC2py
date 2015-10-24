@@ -34,4 +34,5 @@
 - cmd.exe与linux自带的命令行工具没有可比性...
 - windows powershell只能满足正常的命令行需求，ls,cd等。
 - 如果条件允许的话尽量使用linux的ubuntu系统或者unix的mac系统。
+hahahaha 
 
