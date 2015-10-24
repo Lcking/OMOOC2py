@@ -4,6 +4,9 @@
   + [DISQUS私人教程](0MOOC/DISQUS.md)
   + [markdown私人教程](0MOOC/md.md)
   + [pythons私人教程](0MOOC/py.md)
+  + [github私人教程](0MOOC/github.md)
+  + [git私人教程](0MOOC/git.md)
+
 - [基础旋进](1sTry/README.md)
 - [迭代作品](2nDev/README.md)
 - [人生首秀](3rDemo/README.md)
